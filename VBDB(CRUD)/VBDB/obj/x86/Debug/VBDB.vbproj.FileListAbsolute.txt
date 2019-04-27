@@ -1,0 +1,36 @@
+C:\Users\user\Desktop\VBDB\VBDB\bin\Debug\VBDB.exe
+C:\Users\user\Desktop\VBDB\VBDB\bin\Debug\VBDB.pdb
+C:\Users\user\Desktop\VBDB\VBDB\bin\Debug\VBDB.xml
+C:\Users\user\Desktop\VBDB\VBDB\obj\x86\Debug\VBDB.Form1.resources
+C:\Users\user\Desktop\VBDB\VBDB\obj\x86\Debug\VBDB.Resources.resources
+C:\Users\user\Desktop\VBDB\VBDB\obj\x86\Debug\VBDB.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\VBDB\VBDB\obj\x86\Debug\VBDB.exe
+C:\Users\user\Desktop\VBDB\VBDB\obj\x86\Debug\VBDB.xml
+C:\Users\user\Desktop\VBDB\VBDB\obj\x86\Debug\VBDB.pdb
+C:\Users\user\Desktop\VBDB\VBDB\bin\Debug\VBDB.exe.config
+C:\Users\user\Desktop\VBDB\VBDB\obj\x86\Debug\VBDB.AddNewStudent.resources
+C:\Users\user\Desktop\VBDB\VBDB\obj\x86\Debug\VBDB.vbprojResolveAssemblyReference.cache
+E:\SMT\.Net Programing\VDBDPrograming\VBDB\VBDB\bin\Debug\VBDB.exe.config
+E:\SMT\.Net Programing\VDBDPrograming\VBDB\VBDB\obj\x86\Debug\VBDB.exe
+E:\SMT\.Net Programing\VDBDPrograming\VBDB\VBDB\obj\x86\Debug\VBDB.xml
+E:\SMT\.Net Programing\VDBDPrograming\VBDB\VBDB\obj\x86\Debug\VBDB.pdb
+E:\SMT\.Net Programing\VDBDPrograming\VBDB\VBDB\bin\Debug\VBDB.exe
+E:\SMT\.Net Programing\VDBDPrograming\VBDB\VBDB\bin\Debug\VBDB.pdb
+E:\SMT\.Net Programing\VDBDPrograming\VBDB\VBDB\bin\Debug\VBDB.xml
+E:\SMT\.Net Programing\VDBDPrograming\VBDB\VBDB\obj\x86\Debug\VBDB.vbprojResolveAssemblyReference.cache
+E:\SMT\.Net Programing\VDBDPrograming\VBDB\VBDB\obj\x86\Debug\VBDB.AddNewStudent.resources
+E:\SMT\.Net Programing\VDBDPrograming\VBDB\VBDB\obj\x86\Debug\VBDB.Form1.resources
+E:\SMT\.Net Programing\VDBDPrograming\VBDB\VBDB\obj\x86\Debug\VBDB.Resources.resources
+E:\SMT\.Net Programing\VDBDPrograming\VBDB\VBDB\obj\x86\Debug\VBDB.vbproj.GenerateResource.Cache
+E:\SMT\.Net Programing\VDBDPrograming\VBDB(CRUD)\VBDB\bin\Debug\VBDB.exe.config
+E:\SMT\.Net Programing\VDBDPrograming\VBDB(CRUD)\VBDB\obj\x86\Debug\VBDB.exe
+E:\SMT\.Net Programing\VDBDPrograming\VBDB(CRUD)\VBDB\obj\x86\Debug\VBDB.xml
+E:\SMT\.Net Programing\VDBDPrograming\VBDB(CRUD)\VBDB\obj\x86\Debug\VBDB.pdb
+E:\SMT\.Net Programing\VDBDPrograming\VBDB(CRUD)\VBDB\bin\Debug\VBDB.exe
+E:\SMT\.Net Programing\VDBDPrograming\VBDB(CRUD)\VBDB\bin\Debug\VBDB.pdb
+E:\SMT\.Net Programing\VDBDPrograming\VBDB(CRUD)\VBDB\bin\Debug\VBDB.xml
+E:\SMT\.Net Programing\VDBDPrograming\VBDB(CRUD)\VBDB\obj\x86\Debug\VBDB.vbprojResolveAssemblyReference.cache
+E:\SMT\.Net Programing\VDBDPrograming\VBDB(CRUD)\VBDB\obj\x86\Debug\VBDB.AddNewStudent.resources
+E:\SMT\.Net Programing\VDBDPrograming\VBDB(CRUD)\VBDB\obj\x86\Debug\VBDB.Form1.resources
+E:\SMT\.Net Programing\VDBDPrograming\VBDB(CRUD)\VBDB\obj\x86\Debug\VBDB.Resources.resources
+E:\SMT\.Net Programing\VDBDPrograming\VBDB(CRUD)\VBDB\obj\x86\Debug\VBDB.vbproj.GenerateResource.Cache
